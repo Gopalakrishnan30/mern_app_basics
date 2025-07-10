@@ -1,0 +1,8 @@
+{
+    "env": {
+       "DB_USER":"gkphoenix30",
+       "DB_PASSWORD":"ZdDYzT89Pu2jhH2o",
+        "DB_NAME":"mern",
+        "JWT_KEY":"supersecret_dont_share"
+    }
+}
